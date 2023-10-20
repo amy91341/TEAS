@@ -7,7 +7,7 @@ _New to Git and GitHub? This free online course will get you up to speed quickly
 # TEAS
 
 - [Project summary](#project-summary)
-  - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
+  - [1.Having fun](#the-issue-we-are-hoping-to-solve)
   - [How our technology solution can help](#how-our-technology-solution-can-help)
   - [Our idea](#our-idea)
 - [Technology implementation](#technology-implementation)
