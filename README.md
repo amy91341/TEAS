@@ -6,7 +6,6 @@
   - [Our idea](#our-idea)
 - [Technology implementation](#technology-implementation)
   - [IBM AI service(s) used](#ibm-ai-services-used)
-  - [Other IBM technology used](#other-ibm-technology-used)
   - [Solution architecture](#solution-architecture)
 - [Presentation materials](#presentation-materials)
   - [Solution demo video](#solution-demo-video)
@@ -41,27 +40,15 @@ TEAS is a simple and long handheld detector with a telescopic front lens that pr
 
 ### IBM AI service(s) used
 
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
-
-
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.
-
-
-### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
+- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) -By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.
 
 ### Solution architecture
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+The use of TEAS involves capturing, transmitting information, AI recognition, and data feedback process flowchart.]!(https://img.istreetview.com/?id=5uhwiTEM&url=3cRltBdhUaYc2lJ275Ez4NhqjMmC+vaqAQ4m3zXbsrDDGm94YNcv67oTZnzv5vJTdciejXMQ2qmKLUWGsdoK98D7i1XVzVVRznZ8cA==)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+It encompasses three major components: the operation of the mobile app system, cloud-based data comparison, and information transmission from TEAS handheld device.
 
 ## Presentation materials
 
