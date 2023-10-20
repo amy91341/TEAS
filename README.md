@@ -31,13 +31,11 @@ The inspection of tea plant diseases and pests is hindered by factors such as ma
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+Early Detection of Tea Plant Pathogens and Pests Using AI for Ensuring Tea Plant Health
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
-
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+TEAS is a simple and long handheld detector with a telescopic front lens that probes into the center of the tea tree and among the branches and leaves. The long-pressure camera uses hard-tube endoscopic lens technology to record the internal conditions of the tea tree, and with Watson Discovery AI backend recognition, the internal pest and disease conditions of the tea tree captured by the tea farmer are reported to the tea farmer, using voice and light guidance to enable the tea farmer to detect the problems at an early stage, accurate identification and timely treatment can also achieve environmental protection.
 
 ## Technology implementation
 
@@ -45,12 +43,10 @@ More detail is available in our [description document](./docs/DESCRIPTION.md).
 
 _INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
 
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
+
 - [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
+- By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.
+
 
 ### Other IBM technology used
 
