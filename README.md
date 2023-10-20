@@ -27,7 +27,7 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+The inspection of tea plant diseases and pests is hindered by factors such as manual searching, difficulty in observing inner layer infestations, challenges in detecting early symptoms, and excessive pesticide application. These factors significantly impact tea yield, tea plant health, and the tea industry economy.
 
 ### How our technology solution can help
 
