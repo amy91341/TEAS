@@ -74,6 +74,13 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 ![Design Concept](https://img.onl/7X9NvN) 
 ![Issues and Problems](https://img.onl/CjRYPJ)
 ![Interview and Using Context](https://img.onl/5EtUQl)
+![Usig Process](https://img.onl/DUJEhI)
+![Structure](https://img.onl/SnAccc)
+![Product Relationship](https://img.onl/Pe6gdr)
+![Information architecture diagram](https://img.onl/qJ4ha)
+
+
+
 
 
 INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
