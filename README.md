@@ -33,8 +33,8 @@ The inspection of tea plant diseases and pests is hindered by factors such as ma
 Early Detection of Tea Plant Pathogens and Pests Using AI for Ensuring Tea Plant Health
 
 ### Our idea
--Design Concept: https://img.onl/7X9NvN
-  TEAS is a simple and long handheld detector with a telescopic front lens that probes into the center of the tea tree and among the branches and     leaves. The long-pressure camera uses hard-tube endoscopic lens technology to record the internal conditions of the tea tree, and with Watson       Discovery AI backend recognition, the internal pest and disease conditions of the tea tree captured by the tea farmer are reported to the tea       farmer, using voice and light guidance to enable the tea farmer to detect the problems at an early stage, accurate identification and timely        treatment can also achieve environmental protection.
+![Design Concept](https://img.onl/7X9NvN) 
+-TEAS is a simple and long handheld detector with a telescopic front lens that probes into the center of the tea tree and among the branches and     leaves. The long-pressure camera uses hard-tube endoscopic lens technology to record the internal conditions of the tea tree, and with Watson       Discovery AI backend recognition, the internal pest and disease conditions of the tea tree captured by the tea farmer are reported to the tea       farmer, using voice and light guidance to enable the tea farmer to detect the problems at an early stage, accurate identification and timely        treatment can also achieve environmental protection.
 
 ## Technology implementation
 
@@ -70,7 +70,11 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 
 ### How to run the project
 
-![Main Image](https://img.onl/CxjN9C)
+![Main Image](https://img.onl/aC9Oo)
+![Design Concept](https://img.onl/7X9NvN) 
+![Issues and Problems](https://img.onl/CjRYPJ)
+![Interview and Using Context](https://img.onl/5EtUQl)
+
 
 INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
