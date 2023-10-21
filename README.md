@@ -75,7 +75,7 @@ The project currently does the following things.
 ![Product Comparison](https://img.onl/uzxl0)
 ![Benefits and Markets](https://img.onl/nrNr)
 ![Production and Manufacturing Chain](https://img.onl/jZLT8b)
-![Main Images](https://img.onl/D21QLM)
+![Main Images](https://s12.aconvert.com/convert/p3r68-cdx67/og59qe2xpc/Call%20for%20Code_TEAS-11.png)
 
 
 ---
