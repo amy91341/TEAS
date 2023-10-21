@@ -51,8 +51,10 @@ It encompasses three major components: the operation of the mobile app system, c
 ## Presentation materials
 
 ### Solution demo video
-
-[![Watch the video](https://youtu.be/EcSsWPpRx4Q)
+-User interface operation instructions for the second-generation design
+(https://youtu.be/EcSsWPpRx4Q)
+-"Instructional video for the first-generation design."
+(https://youtu.be/ZH97olwYYY0)
 
 ### Project development roadmap
 
