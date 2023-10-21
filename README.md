@@ -33,8 +33,8 @@ The inspection of tea plant diseases and pests is hindered by factors such as ma
 Early Detection of Tea Plant Pathogens and Pests Using AI for Ensuring Tea Plant Health
 
 ### Our idea
-
-TEAS is a simple and long handheld detector with a telescopic front lens that probes into the center of the tea tree and among the branches and leaves. The long-pressure camera uses hard-tube endoscopic lens technology to record the internal conditions of the tea tree, and with Watson Discovery AI backend recognition, the internal pest and disease conditions of the tea tree captured by the tea farmer are reported to the tea farmer, using voice and light guidance to enable the tea farmer to detect the problems at an early stage, accurate identification and timely treatment can also achieve environmental protection.
+-Design Concept: https://img.onl/7X9NvN
+  TEAS is a simple and long handheld detector with a telescopic front lens that probes into the center of the tea tree and among the branches and     leaves. The long-pressure camera uses hard-tube endoscopic lens technology to record the internal conditions of the tea tree, and with Watson       Discovery AI backend recognition, the internal pest and disease conditions of the tea tree captured by the tea farmer are reported to the tea       farmer, using voice and light guidance to enable the tea farmer to detect the problems at an early stage, accurate identification and timely        treatment can also achieve environmental protection.
 
 ## Technology implementation
 
@@ -46,7 +46,7 @@ TEAS is a simple and long handheld detector with a telescopic front lens that pr
 
 Diagram and step-by-step description of the flow of our solution:
 
-The use of TEAS involves capturing, transmitting information, AI recognition, and data feedback process flowchart.]!(https://img.istreetview.com/?id=5uhwiTEM&url=3cRltBdhUaYc2lJ275Ez4NhqjMmC+vaqAQ4m3zXbsrDDGm94YNcv67oTZnzv5vJTdciejXMQ2qmKLUWGsdoK98D7i1XVzVVRznZ8cA==)
+The use of TEAS involves capturing, transmitting information, AI recognition, and data feedback process flowchart.!(https://img.istreetview.com/?id=5uhwiTEM&url=3cRltBdhUaYc2lJ275Ez4NhqjMmC+vaqAQ4m3zXbsrDDGm94YNcv67oTZnzv5vJTdciejXMQ2qmKLUWGsdoK98D7i1XVzVVRznZ8cA==)
 
 It encompasses three major components: the operation of the mobile app system, cloud-based data comparison, and information transmission from TEAS handheld device.
 
