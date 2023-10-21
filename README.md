@@ -40,13 +40,13 @@ Early Detection of Tea Plant Pathogens and Pests Using AI for Ensuring Tea Plant
 
 ### IBM AI service(s) used
 
-- [Watson Discovery ](https://cloud.ibm.com/catalog/services/watson-discovery) -By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.!(https://img.onl/SnAccc)
+- [WatsonDiscovery](https://cloud.ibm.com/catalog/services/watson-discovery) -By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.![Structure](https://img.onl/SnAccc)
 
 ### Solution architecture
 
 Diagram and step-by-step description of the flow of our solution:
-
-The use of TEAS involves capturing, transmitting information, AI recognition, and data feedback process flowchart.!(https://img.istreetview.com/?id=5uhwiTEM&url=3cRltBdhUaYc2lJ275Ez4NhqjMmC+vaqAQ4m3zXbsrDDGm94YNcv67oTZnzv5vJTdciejXMQ2qmKLUWGsdoK98D7i1XVzVVRznZ8cA==)
+![Information architecture diagram](https://img.onl/qJ4ha)
+The use of TEAS involves capturing, transmitting information, AI recognition, and data feedback process flowchart.
 
 It encompasses three major components: the operation of the mobile app system, cloud-based data comparison, and information transmission from TEAS handheld device.
 
@@ -70,7 +70,7 @@ In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](https://img.onl/nAp3B9)
 
 ## Additional details
 
