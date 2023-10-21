@@ -62,14 +62,6 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-In the future we plan to...
-
-See below for our proposed schedule on next steps after Call for Code 2023 submission.
-
 ![Roadmap](https://img.onl/nAp3B9)
 
 ## Additional details
@@ -77,6 +69,8 @@ See below for our proposed schedule on next steps after Call for Code 2023 submi
 _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
 
 ### How to run the project
+
+![Main Image](https://img.onl/CxjN9C)
 
 INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
