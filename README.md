@@ -40,7 +40,7 @@ TEAS is a simple and long handheld detector with a telescopic front lens that pr
 
 ### IBM AI service(s) used
 
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) -By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.
+- [Watson Discovery ](https://cloud.ibm.com/catalog/services/watson-discovery) -By integrating technologies such as dynamic capturing, probing, imaging, and Watson Discovery AI recognition systems, these features are incorporated into TEAS. Coupled with an application (APP), tea farmers can utilize the app to schedule and access information collected by TEAS.!(https://img.onl/SnAccc)
 
 ### Solution architecture
 
